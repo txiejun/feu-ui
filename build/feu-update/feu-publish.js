@@ -8,7 +8,7 @@
  * 3、获得当前npm仓库最新版本号，并增加1，修改本地package.json的version字段
  * 4、发布到npm仓库
  * 5、后置条件：需要手动git push提交本地修改的代码及package.json
- *
+ * 测试3
  * Author: txiejun
  * Contact: txiejun@126.com
  * Time: 2018/12/27 15:37
