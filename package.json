@@ -46,6 +46,7 @@
   },
   "peerDependencies": {},
   "dependencies": {
+    "eld-ui": "^0.1.99",
     "npm": "^5.10.0"
   }
 }
